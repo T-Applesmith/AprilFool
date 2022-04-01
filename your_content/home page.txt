@@ -10,6 +10,6 @@
 
 <!--img src="GetFoxglovedStickerText.gif" alt="Get Foxgloved Sticker with Text" style="width:320px;height:320px;"-->
 
-<p>Always remember to verify links before clicking them.<br>
+<p>Always remember to verify links before clicking them, stay safe out there.<br>
     Click <a href="https://www.foxglovecomics.com/">here</a> to go to the official foxglove comics website.</p>
 
