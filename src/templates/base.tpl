@@ -34,7 +34,7 @@
     <meta property="og:description" content="{{ comic_description }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ comic_url }}/" />
-    <meta property="og:image" content="{{ https://i.imgur.com/s7AiMID.png }}" />
+    <meta property="og:image" content="{{ 'https://i.imgur.com/s7AiMID.png' }}" />
     <meta property="og:image:width" content="100px" />
     <meta property="og:image:height" content="100px" />
     <title>{{ page_title }} - {{ comic_title }}</title>
